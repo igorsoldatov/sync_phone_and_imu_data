@@ -1,0 +1,80 @@
+[
+  {
+    "phone_file": "gyro_accel.csv",
+    "imu_file": "imu0-an2_22_08_2021-raw_imu_data-22.08.2021.16.52.57.csv",
+    "index_sync": {
+      "Gyroscope": {
+        "phone": {
+          "start": 89945,
+          "end": 149744
+        },
+        "imu": {
+          "start": 0,
+          "end": 59799
+        }
+      },
+      "Accelerometer": {
+        "phone": {
+          "start": 12283,
+          "end": 134905
+        },
+        "imu": {
+          "start": 0,
+          "end": 122622
+        }
+      }
+    }
+  },
+  {
+    "phone_file": "gyro_accel.csv",
+    "imu_file": "imu1-an2_22_08_2021-raw_imu_data-22.08.2021.16.52.57.csv",
+    "index_sync": {
+      "Gyroscope": {
+        "phone": {
+          "start": 89945,
+          "end": 149744
+        },
+        "imu": {
+          "start": 0,
+          "end": 59799
+        }
+      },
+      "Accelerometer": {
+        "phone": {
+          "start": 12282,
+          "end": 134904
+        },
+        "imu": {
+          "start": 0,
+          "end": 122622
+        }
+      }
+    }
+  },
+  {
+    "phone_file": "gyro_accel.csv",
+    "imu_file": "imu2-an2_22_08_2021-raw_imu_data-22.08.2021.16.52.57.csv",
+    "index_sync": {
+      "Gyroscope": {
+        "phone": {
+          "start": 89946,
+          "end": 149744
+        },
+        "imu": {
+          "start": 0,
+          "end": 59798
+        }
+      },
+      "Accelerometer": {
+        "phone": {
+          "start": 12283,
+          "end": 134905
+        },
+        "imu": {
+          "start": 0,
+          "end": 122622
+        }
+      }
+    }
+  }
+]
